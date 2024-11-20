@@ -1,0 +1,48 @@
+1. Evolução da Demanda por Cursos de Tecnologia
+Objetivo: Identificar como o interesse por cursos de tecnologia (como Ciência da Computação, Engenharia de Software, Sistemas de Informação, etc.) mudou de 2017 a 2022.
+
+Perguntas de análise:
+Quais cursos de tecnologia tiveram um aumento significativo de candidatos inscritos?
+Como o número de vagas desses cursos evoluíram ao longo dos anos?
+
+Insight esperado: Essa análise pode mostrar a crescente demanda por profissionais de tecnologia, o que pode ser de interesse para universidades, empresas e governos ao alinhar ofertas de cursos com as demandas do mercado.
+
+
+2. Perfil dos Candidatos em Tecnologia
+Objetivo: Entender o perfil dos candidatos que se inscrevem e são aprovados nos cursos de tecnologia.
+
+Perguntas de análise:
+Qual é o perfil demográfico dos candidatos (idade, sexo e Estado) nesses cursos?
+Houve mudanças no perfil dos candidatos aprovados em tecnologia nos últimos anos?
+
+Insight esperado: Essa análise pode revelar se a diversidade (regional, de gênero, etc.) nos cursos de tecnologia está aumentando, o que é importante para entender a inclusão nesse campo.
+
+
+3. Comparação com Outros Cursos Populares
+Objetivo: Comparar a popularidade dos cursos de tecnologia com outros cursos tradicionais (exemplo: Medicina, Direito, Engenharia Civil).
+
+Perguntas de análise:
+Como a concorrência por vagas em tecnologia se compara com a de cursos tradicionalmente populares?
+Esses cursos estão se tornando mais competitivos em relação aos outros?
+
+Insight esperado: Essa comparação pode revelar o crescimento dos cursos de tecnologia em relação a áreas de prestígio, destacando mudanças nas preferências dos candidatos e alinhamento com as demandas do mercado de trabalho.
+
+
+4. Análise das Notas de Corte em Tecnologia
+Objetivo: Avaliar a dificuldade de ingresso nos cursos de tecnologia ao longo dos anos.
+
+Perguntas de análise:
+Como as notas de corte para cursos de tecnologia variaram de 2017 a 2022?
+Cursos de tecnologia estão exigindo notas mais altas, indicando maior competitividade?
+
+Insight esperado: Se as notas de corte estiverem aumentando, isso indicará uma maior competitividade e popularidade dos cursos de tecnologia, refletindo tanto o interesse dos candidatos quanto a valorização desses cursos.
+
+
+5. Distribuição Geográfica da Demanda por Tecnologia
+Objetivo: Entender se a procura por cursos de tecnologia é maior em determinadas regiões do país.
+
+Perguntas de análise:
+Quais estados ou regiões concentram a maior demanda por cursos de tecnologia?
+Houve um aumento de candidatos de estados ou regiões específicas?
+
+Insight esperado: Esse tipo de análise pode revelar quais regiões estão mais alinhadas com a tendência de busca por cursos de tecnologia e onde o interesse pode estar crescendo ou sendo incentivado.
