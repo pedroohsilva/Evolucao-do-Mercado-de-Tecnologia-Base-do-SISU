@@ -27,7 +27,9 @@ ORDER BY ano DESC, nome_curso;
 # Qual é o perfil demográfico dos candidatos (idade, sexo e Estado) nesses cursos?
 
 
-
+SELECT
+  idade 
+FROM `basedosdados.br_mec_sisu.microdados`
 
 
 
