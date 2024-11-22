@@ -19,3 +19,16 @@ WHERE
   )
 GROUP BY nome_curso, ano
 ORDER BY ano DESC, nome_curso;
+
+# 2. Perfil dos Candidatos em Tecnologia
+# Objetivo: Entender o perfil dos candidatos que se inscrevem e são aprovados nos cursos de tecnologia.
+
+# Perguntas de análise:
+# Qual é o perfil demográfico dos candidatos (idade, sexo e Estado) nesses cursos?
+
+
+
+
+
+
+# Houve mudanças no perfil dos candidatos aprovados em tecnologia nos últimos anos?

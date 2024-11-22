@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Carregando o arquivo CSV gerado pela query SQL
-df = pd.read_csv('outputs/total_inscritos_cursos_tecnologia.csv')
+df = pd.read_csv('Resultado das Consultas/total_inscritos_cursos_tecnologia.csv')
 
 # Criando o gráfico de linhas
 plt.figure(figsize=(12, 6))
